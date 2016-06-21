@@ -1,0 +1,17 @@
+{
+  "name": "airconsole",
+  "homepage": "https://github.com/aspin/airconsole-api",
+  "authors": [
+    "aspin <tsunami70875@gmail.com>"
+  ],
+  "description": "AirConsole Javascript API, registered for Bower",
+  "main": "airconsole-1.4.0.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
